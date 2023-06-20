@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+home_work_9_virtual_assistant_SG.egg-info/PKG-INFO
+home_work_9_virtual_assistant_SG.egg-info/SOURCES.txt
+home_work_9_virtual_assistant_SG.egg-info/dependency_links.txt
+home_work_9_virtual_assistant_SG.egg-info/entry_points.txt
+home_work_9_virtual_assistant_SG.egg-info/top_level.txt
+src/virtual_assistant/__init__.py
+src/virtual_assistant/main.py
