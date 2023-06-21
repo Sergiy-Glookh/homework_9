@@ -1,5 +1,4 @@
 import sys
-from string import punctuation
 import re
 
 class AddingExistingUser(Exception):
@@ -205,7 +204,7 @@ def main() -> None:
 
     while True:
 
-        command = input('>>> ').strip(punctuation + '\n\t ') 
+        command = input('>>> ').strip() 
 
         if command.lower() in handlers["exit"]:
             print("Good bye!")
